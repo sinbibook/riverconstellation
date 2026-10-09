@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-09-01T07:09:58.346715036Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-09T07:34:38.462345226Z",
     "templateType": "trip_d",
     "propertyId": "d8aa7d14-ac3a-4341-b773-4a59a38db29d",
     "homepageId": "12ccb8fa-12ec-4072-8101-f347739ebc6d"
@@ -22,13 +22,16 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의",
-    "usageGuide": "- 인원 추가 및 부가서비스 옵션 선택 시, 2박 이상일 경우 숙박일수에 맞게 선택 필요하며 옵션 선택 불가 시 현장 결제 진행\n- 객실 내 고기,생선 등 냄새 심한 음식 조리 불가\n- 10인 이상 방문 시 유선 연락 요청\n- NAVER 페이 포토 리뷰 이벤트(예약고객/선착순): 입실일 당일 안내문자 내 참여 링크 제공\n- 리뷰는 실 사진 첨부 필요\n- 지급 수량 소진 시 조기 종료 가능\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의\n\n[인원추가요금]\n※평일(일~목) 2인 투숙 시, 1층 객실만 이용 가능\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯불(실외) or 전기그릴(실내)\n- 이용 요금: 1회 30,000원 (1박기준/현장결제)\n- 신청 시간: 입실 후~20:00\n- 이용 시간: 제한없음\n- 우천 시: 이용 불가\n※ 우천 시 실내 전기그릴로 이용 가능\n\n[개별수영장]\n[개별 지하 암반수 수영장]\n- 운영 기간: 26년도 7월 1일 ~ 8월 31일\n- 이용 요금: 50,000원 (1박기준/현장결제)\n- 이용 시간: 입실 후~\n- 이용 복장: 규제 없음\n- 수영장 크기: 2m x 5m x 1.5m\n- 온도: 냉수\n※ 지하암반수로 물 부족 시 운영 불가\n※ 미온수 불가\n※ 사전 예약 필수\n\n[스파]\n- 이용 객실: 전객실\n- 스파 형태: 히노끼탕\n- 수용 인원: 2인\n- 이용 요금: 무료\n※ 이용 시간: 입실 후~\n- 온도 조절: 가능\n- 입욕제 사용: 불가\n\n[부대시설]\n[노래방]\n- 이용 객실: 전객실\n- 이용 요금: 2시간 30,000원 (1박기준/현장결제)\n- 이용 시간: 입실 후~22:00까지\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 넷플릭스 이용 불가\n- OTT 이용 가능\n- 세탁실 (사전 문의 필수)\n\n[소금강 계곡]\n- 펜션 1분 거리 \n- 펜션에서 입장료 부담 \n- 어린이 / 성인  놀수 있는 공간 분리\n- 튜브 개인 지참 필요\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 객실 당 8대 가능 (펜션 내 4대/외부 4대)\n\n[교통편]\n[승용차 이용시]\n- 지번 주소 : 강원 강릉시 연곡면 삼산리 678-3\n- 도로명 주소 : 강원 강릉시 연곡면 진고개로 1424-23\n\n[대중교통 이용시]\n- 강릉역300번, 314번 버스 승차연곡면 사무소 하차 \n- 921번 마을버스 승차삼산정류장 하차도보로 8분 이동도착",
+    "usageGuide": "[공지사항]\n- 인원 추가 및 부가서비스 옵션 선택 시, 2박 이상일 경우 숙박일수에 맞게 선택 필요하며 옵션 선택 불가 시 현장 결제 진행\n- 객실 내 고기,생선 등 냄새 심한 음식 조리 불가\n- 10인 이상 방문 시 유선 연락 요청\n- NAVER 페이 포토 리뷰 이벤트(예약고객/선착순): 입실일 당일 안내문자 내 참여 링크 제공\n- 리뷰는 실 사진 첨부 필요\n- 지급 수량 소진 시 조기 종료 가능\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 문의\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※평일(일~목) 2인 투숙 시, 1층 객실만 이용 가능\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯불(실외) or 전기그릴(실내)\n- 이용 요금: 1회 30,000원 (1박기준/현장결제)\n- 신청 시간: 입실 후~20:00\n- 이용 시간: 제한없음\n- 우천 시: 이용 불가\n※ 우천 시 실내 전기그릴로 이용 가능\n\n[개별수영장]\n[개별 지하 암반수 수영장]\n- 운영 기간: 26년도 7월 1일 ~ 8월 30일\n- 이용 요금: 50,000원 (1박기준/현장결제)\n- 이용 시간: 입실 후~\n- 이용 복장: 규제 없음\n- 수영장 크기: 2m x 5m x 1.5m\n- 온도: 냉수\n※ 지하암반수로 물 부족 시 운영 불가\n※ 미온수 불가\n※ 사전 예약 필수\n\n[스파]\n- 이용 객실: 전객실\n- 스파 형태: 히노끼탕\n- 수용 인원: 2인\n- 이용 요금: 무료\n※ 이용 시간: 입실 후~\n- 온도 조절: 가능\n- 입욕제 사용: 불가\n\n[부대시설]\n[노래방]\n- 이용 객실: 전객실\n- 이용 요금: 2시간 30,000원 (1박기준/현장결제)\n- 이용 시간: 입실 후~22:00까지\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 화재감지기 보유\n- 일산화탄소감지기 보유\n- 넷플릭스 이용 불가\n- OTT 이용 가능\n- 세탁실 (사전 문의 필수)\n\n[소금강 계곡]\n- 펜션 1분 거리 \n- 펜션에서 입장료 부담 \n- 어린이 / 성인  놀수 있는 공간 분리\n- 튜브 개인 지참 필요\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 객실 당 8대 가능 (펜션 내 4대/외부 4대)\n\n[교통편]\n[승용차 이용시]\n- 지번 주소 : 강원 강릉시 연곡면 삼산리 678-3\n- 도로명 주소 : 강원 강릉시 연곡면 진고개로 1424-23\n\n[대중교통 이용시]\n- 강릉역300번, 314번 버스 승차연곡면 사무소 하차 \n- 921번 마을버스 승차삼산정류장 하차도보로 8분 이동도착",
     "reservationGuide": "- 인원 추가 및 부가서비스 옵션 선택 시, 2박 이상일 경우 숙박일수에 맞게 선택 필요하며 옵션 선택 불가 시 현장 결제 진행\n- 객실 내 고기,생선 등 냄새 심한 음식 조리 불가\n- 10인 이상 방문 시 유선 연락 요청\n- NAVER 페이 포토 리뷰 이벤트(예약고객/선착순): 입실일 당일 안내문자 내 참여 링크 제공\n- 리뷰는 실 사진 첨부 필요\n- 지급 수량 소진 시 조기 종료 가능",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "riverconstellation.kr",
     "realtimeBookingId": "https://booking.naver.com/booking/3/bizes/1377021",
     "ybsId": "76413",
+    "tripPropertyId": "8045",
+    "partnerType": "distributor_b",
+    "tripProviderName": "주식회사 다채움컴퍼니",
     "amenities": [
       "주차장"
     ],
@@ -72,7 +75,7 @@
         "id": "f514aa2b-9175-419a-b0af-5f8dda5493b3",
         "name": "개별수영장",
         "description": "",
-        "usageGuide": "[개별 지하 암반수 수영장]\n- 운영 기간: 26년도 7월 1일 ~ 8월 31일\n- 이용 요금: 50,000원 (1박기준/현장결제)\n- 이용 시간: 입실 후~\n- 이용 복장: 규제 없음\n- 수영장 크기: 2m x 5m x 1.5m\n- 온도: 냉수\n※ 지하암반수로 물 부족 시 운영 불가\n※ 미온수 불가\n※ 사전 예약 필수",
+        "usageGuide": "[개별 지하 암반수 수영장]\n- 운영 기간: 26년도 7월 1일 ~ 8월 30일\n- 이용 요금: 50,000원 (1박기준/현장결제)\n- 이용 시간: 입실 후~\n- 이용 복장: 규제 없음\n- 수영장 크기: 2m x 5m x 1.5m\n- 온도: 냉수\n※ 지하암반수로 물 부족 시 운영 불가\n※ 미온수 불가\n※ 사전 예약 필수",
         "displayOrder": 0,
         "images": [
           {
@@ -317,7 +320,7 @@
           {
             "id": "5446103b-21a3-468f-b4af-d9e83a35edbd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/WmjV3xpLO2uP.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -327,7 +330,7 @@
           {
             "id": "3b83bc23-1c67-4f3a-b0d5-bbf2b3633e24",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/Lpt8PWNZak0v.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -335,7 +338,7 @@
           {
             "id": "07b8ae6c-960f-4890-82a3-90488e07ad1e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/iXtMeDKbsI9k.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -343,7 +346,7 @@
           {
             "id": "853448d2-bd0d-402b-9c43-7b426e68978b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/RN2h7vMBcqSd.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -351,7 +354,7 @@
           {
             "id": "7d1ba8c6-e1a5-4f1d-81b0-feddb6a3cc7c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/S9ikzRA1pDtj.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -359,7 +362,7 @@
           {
             "id": "7f286c07-d3d7-4e48-851a-a371c90873bb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/8976DrRLcglG.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -367,7 +370,7 @@
           {
             "id": "ea17a54b-be96-4468-ad6c-4372b2f95ca6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/9RGIhajvAxS6.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -375,7 +378,7 @@
           {
             "id": "ac1aace4-f8df-4cbe-9b5e-46604a545b8a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/IerTaCV2DxF1.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -383,7 +386,7 @@
           {
             "id": "122ac9b7-5e00-4e1a-b53c-2c03211d4821",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/LUeShtWxqwGd.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -391,7 +394,7 @@
           {
             "id": "114898e2-ca8f-4805-ab45-50e9b3938763",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/bJr0YMofKZBj.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -399,7 +402,7 @@
           {
             "id": "39fda800-1699-43e0-bcf4-519c7c5041e5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/04/29/CPX0mF5oDGlR.jpg",
-            "sortOrder": 9,
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -1891,6 +1894,35 @@
                 "description": ""
               },
               "enabled": true
+            }
+          ]
+        },
+        "landing": {
+          "sections": [
+            {
+              "enabled": false,
+              "hero": {
+                "images": [ ]
+              },
+              "about": [
+                {
+                  "blockId": "sample-card-1",
+                  "propertyId": "sample-property-1",
+                  "propertyName": "현재 숙소",
+                  "title": "",
+                  "images": [ ],
+                  "order": 1
+                },
+                {
+                  "blockId": "sample-card-2",
+                  "propertyId": "sample-property-2",
+                  "propertyName": "연결 숙소 2",
+                  "domain": "http://localhost:8000/t-template-D",
+                  "title": "",
+                  "images": [ ],
+                  "order": 2
+                }
+              ]
             }
           ]
         }
